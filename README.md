@@ -1,9 +1,5 @@
-# Babel Webpack Starter
-
-A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
-
-### Version
-1.1.0
+# Micropost App
+I developed simple comment micropost app using javascript (es6), babel and webpack. You can [C]reate, [R]ead, [U]pdate and [D]elete comments.
 
 ## Usage
 
@@ -31,11 +27,7 @@ $ npm run build
 
 ## More Info
 
-### Author
+### WebPack Starter Template
 
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
-
-### License
-
-This project is licensed under the MIT License
