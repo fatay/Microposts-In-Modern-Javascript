@@ -29,5 +29,5 @@ $ npm run build
 
 ### WebPack Starter Template
 
-Brad Traversy
+I use webpack starter template which is developed by Brad Traversy.
 [Traversy Media](http://www.traversymedia.com)
